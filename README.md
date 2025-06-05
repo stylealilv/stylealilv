@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Style Ali
+# 👋 Hi there, I'm Tea
 
 ## 🚀 About Me
 I'm a passionate developer exploring the world of programming and technology. Welcome to my GitHub profile!
@@ -26,6 +26,7 @@ I'm a passionate developer exploring the world of programming and technology. We
 - Learning new technologies
 - Contributing to open-source projects
 - Building meaningful applications
+- Being a good Mobile App Developer
 
 ---
 ⭐️ From [stylealilv](https://github.com/stylealilv) 
