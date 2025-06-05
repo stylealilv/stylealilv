@@ -17,7 +17,7 @@ I'm a passionate developer exploring the world of programming and technology. We
 - [TeaMTFl](https://github.com/stylealilv/TeaMTFl) - Dart Application
 - [MyCoolNodeApp](https://github.com/stylealilv/MyCoolNodeApp) - Node.js Application
 - [Socket](https://github.com/stylealilv/Socket) - Python Socket Programming
-- [grocery-apps](https://github.com/stylealilv/grocery-apps) - CSS Styling Project
+- [grocery-apps](https://github.com/stylealilv/grocery-apps) - Python Web with FLask server
 
 ## 📫 Connect with Me
 - GitHub: [@stylealilv](https://github.com/stylealilv)
