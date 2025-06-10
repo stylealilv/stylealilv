@@ -9,8 +9,6 @@ I'm a passionate developer exploring the world of programming and technology. We
 - **Backend**: Node.js
 - **Tools & Technologies**: Git, GitHub
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stylealilv&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 - [Lab_CP](https://github.com/stylealilv/Lab_CP) - C++ Projects
